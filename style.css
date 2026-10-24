@@ -4,4 +4,6 @@ body {
 
 section {
     background-color: green;
+    margin: auto;
+    padding: 20px;
 }
